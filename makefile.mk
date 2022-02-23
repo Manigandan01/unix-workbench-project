@@ -1,3 +1,5 @@
+#This make file makes a file README.md when build is called and removes when clean target is called
+
 build :README.md
 
 README.md :
